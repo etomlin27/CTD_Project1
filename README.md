@@ -3,7 +3,7 @@ BME450 Project 1
 
 Code URL: 
 Raw Code URL: https://raw.githubusercontent.com/etomlin27/CTD_Project1/master/BME%20450%20Tomlin%20Project%201.ipynb
-README URL: 
+README URL: https://raw.githubusercontent.com/etomlin27/CTD_Project1/master/README.md
 
 Problem Statement:
 
