@@ -24,11 +24,11 @@ Figure 1a: Oregon Slope Base Shallow Profiler SSP for Summer.
 
 Figure 1b: Oregon Slope Base Shallow Profiler SSP for Winter.
 
-![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure3.png)
+![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure7.png)
 
 Figure 2a: Oregon Offshore Cabled Shallow Profiler Mooring SSP for Summer.
 
-![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure3.png)
+![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure8.png)
 
 Figure 2b: Oregon Offshore Cabled Shallow Profiler Mooring SSP for Winter.
 
