@@ -44,35 +44,35 @@ Figure 3b: Oregon Shelf Surface Piercing Profiler SSP for Winter.
 
 ![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure5.png)
 
-Figure 4a: Oregon Offshore Cabled Shallow Profiler Mooring SSP for Summer.
+Figure 4a: Oregon Offshore Cabled Deep Profiler Mooring SSP for Summer.
 
 ![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure6.png)
 
-Figure 4b: Oregon Offshore Cabled Shallow Profiler Mooring SSP for Winter.
+Figure 4b: Oregon Offshore Cabled Deep Profiler Mooring SSP for Winter.
 
 ![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure9.png)
 
-Figure 5a: Oregon Slope Base Shallow Profiler SSP for Summer.
+Figure 5a: Oregon Slope Base Deep Profiler SSP for Summer.
 
 ![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure10.png)
 
-Figure 5b: Oregon Slope Base Shallow Profiler SSP for Winter.
+Figure 5b: Oregon Slope Base Deep Profiler SSP for Winter.
 
 ![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure11.png)
 
-Figure 6a: Oregon Offshore Cabled Shallow Profiler Mooring SSP for Summer.
+Figure 6a: Axial Base Shallow Profiler SSP for Summer.
 
 ![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure12.png)
 
-Figure 6b: Oregon Offshore Cabled Shallow Profiler Mooring SSP for Winter.
+Figure 6b: Axial Base Shallow Profiler SSP for Winter.
 
 ![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure13.png)
 
-Figure 7a: Oregon Offshore Cabled Shallow Profiler Mooring SSP for Summer.
+Figure 7a: Axial Base Deep Profiler SSP for Summer.
 
 ![alt text](https://github.com/etomlin27/CTD_Project1/blob/master/Figure14.png)
 
-Figure 7b: Oregon Offshore Cabled Shallow Profiler Mooring SSP for Winter.
+Figure 7b: Axial Base Deep Profiler SSP for Winter.
 
 
 Conclusion:
