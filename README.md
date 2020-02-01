@@ -74,9 +74,14 @@ Figure 7a: Axial Base Deep Profiler SSP for Summer.
 
 Figure 7b: Axial Base Deep Profiler SSP for Winter.
 
+Regardless of the season, the maximum value for the speed of sound occured at the lowest depth for the deep sensors and the surface depth for the shallow sensors. This is likely due to the minimum value occuring between the two sensors and thus each sensor only displayes the upper or lower end of the curve. 
+
+The effects of day vs. night could not be analyzed do to time constraints restricting the conversion of the instrument time to local time. The expected effect is that in the daytime as temperatures at the surface are higher, the speed of sound profile will shift up slightly. This effect is expected to be much less in magnitude than the similer influence of the differing season, but follow the same reasoning. The increased temperature lowers the density near the surface, but has little effect in the depths and thus raises the depth with the minimum speed of sound.
+
 
 Conclusion:
 
+Temperature changes in the ocean, usually as a result of solar radiation measured at different times of day and different seasons in the year, has a dominant effect on the speed of sound through the water. As the temperature of the ocean in increased, especially near the surface, the speed of sound profile shifts up. This is further illistrated by examining the formula for calculating the speed of sound in water as seen in equation (1). It can then be extrapolated that further effects on ocean temperature from climate change and pollution can have a dramatic affect on the acoustic properties of the water. This in turn, will likely have a severe adverse affect on any marine life that depends on the accoustic properties for their wellbeing and survival.
 References:
 
 https://ooinet.oceanobservatories.org/
