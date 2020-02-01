@@ -1,11 +1,11 @@
-## CTD_Project1
+# CTD_Project1
 BME450 Project 1
 
 Code URL: https://github.com/etomlin27/CTD_Project1/blob/master/BME%20450%20Tomlin%20Project%201.ipynb
 Raw Code URL: https://raw.githubusercontent.com/etomlin27/CTD_Project1/master/BME%20450%20Tomlin%20Project%201.ipynb
 README URL: https://raw.githubusercontent.com/etomlin27/CTD_Project1/master/README.md
 
-# Problem Statement:
+## Problem Statement:
 
 The speed of sound in water varies as a function of the medium's density; temperature, salinity, and depth (head) all contribute to variations in density and must be measured to calculate the speed of sound at a given location. In order to understand how the speed of sound changes in the ocean at a single location through various depths, CTD instruments are used to take measurements of temperature, conductivity, and pressure as they dive and surface between set depths. These can be fed into the speed of sound equation at each data point to develop a speed of sound profile vs. depth using equation (1). These profiles can then be analyzed graphically to determine how seasonal, hourly, and geographic variables affect the profile.
 
@@ -13,7 +13,7 @@ Equation 1:     1449.2 + 4.6(T) - 0.055(T^2) + 0.00029(T^3) + (1.34 - 0.01(T)) +
 
 Where: T = temperature in degrees Celsius and Z = depth in meters
   
-# Backround/ Solution/ Results:
+## Backround/ Solution/ Results:
 
 The various ocean observatories have different periods of downtime and maintenance, as well as technical issues that make the data unavailable. As a result, dates were chosen as close to January 2, 2020 for winter and July 18, 2019 for summer as possible. In instances where the data is not available for wide periods of time surrounding these dates, identical dates from earlier years were prioritized. Even within these parameters, two of the instruments (The Oregon Slope Base Shallow Profiler and the Oregon Offshore Cabled Shallow Profiler Mooring) were recording in the selected time frame, but did not complete any dives. As a result, the speed of sound profile can only be calculated at their respective surface depths. It is important to note that the surface depths are not necessarily at the surface of the ocean and can still be seen in figure 1a-b for the Oregon Slope Base Shallow Profiler and figure 2a-b for the Oregon Offshore Cabled Shallow Profiler Mooring. The remaining instruments completed at least one dive in the 24 hour period of data analyzed and a speed of sound profile could be developed.
 
@@ -80,10 +80,10 @@ Regardless of the season, the maximum value for the speed of sound occured at th
 The effects of day vs. night could not be analyzed do to time constraints restricting the conversion of the instrument time to local time. The expected effect is that in the daytime as temperatures at the surface are higher, the speed of sound profile will shift up slightly. This effect is expected to be much less in magnitude than the similer influence of the differing season, but follow the same reasoning. The increased temperature lowers the density near the surface, but has little effect in the depths and thus raises the depth with the minimum speed of sound.
 
 
-# Conclusion:
+## Conclusion:
 
 Temperature changes in the ocean, usually as a result of solar radiation measured at different times of day and different seasons in the year, has a dominant effect on the speed of sound through the water. As the temperature of the ocean in increased, especially near the surface, the speed of sound profile shifts up. This is further illistrated by examining the formula for calculating the speed of sound in water as seen in equation (1). It can then be extrapolated that further effects on ocean temperature from climate change and pollution can have a dramatic affect on the acoustic properties of the water. This in turn, will likely have a severe adverse affect on any marine life that depends on the accoustic properties for their wellbeing and survival.
 
-# References:
+## References:
 
 https://ooinet.oceanobservatories.org/
