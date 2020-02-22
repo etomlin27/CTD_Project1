@@ -82,7 +82,7 @@ The effects of day vs. night could not be analyzed do to time constraints restri
 
 ## Conclusion:
 
-Weather systems are large scale events that can be tracked by using multiple instrument stations and determinind correlation between them. In the case of the Oregon observitories used, there is a strong correlation between the rain and wind between the two offshore locations.
+Temperature changes in the ocean, usually as a result of solar radiation measured at different times of day and different seasons in the year, has a dominant effect on the speed of sound through the water. As the temperature of the ocean in increased, especially near the surface, the speed of sound profile shifts up. This is further illistrated by examining the formula for calculating the speed of sound in water as seen in equation (1). It can then be extrapolated that further effects on ocean temperature from climate change and pollution can have a dramatic affect on the acoustic properties of the water. This in turn, will likely have a severe adverse affect on any marine life that depends on the accoustic properties for their wellbeing and survival.
 
 ## References:
 
